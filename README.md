@@ -1,6 +1,6 @@
-# Reusable LWC Components
+## Reusable LWC Components
 
-# Agentforce Agents
+## Agentforce Agents
 
 ## Agentforce 360 League 20/26
 
