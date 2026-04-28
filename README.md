@@ -1,18 +1,24 @@
-# Salesforce DX Project: Next Steps
+---
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+# Reusable LWC Components
 
-## How Do You Plan to Deploy Your Changes?
+# Agentforce Agents
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+# Agentforce 360 League 20/26 
 
-## Configure Your Salesforce DX Project
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+| Challenge  | Core Objective | Links | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| **1 : Apex and LWC** |  State management in LWC, Formulas in Apex, Apex Cursors, Executing targeted tests for Apex | [af360league_apexlwc](https://github.com/sreerag13/Salesforce-Recipes/pull/1)  | Apex, LWC |
+| **2 : Agentforce Vibes** | Code faster, test and debug using Agentforce Vibes. Learn to use Model Context Protocol (MCP) tools, configure Agentforce rules, and leverage a central prompt library. | [af360league_vibecoding](https://github.com/sreerag13/Salesforce-Recipes/pull/4)  | MCP, Agentforce Vibes |
+| **3 : Holiday Challenge** | Building an agent for the holiday season. | [af360league_holidayagent](https://github.com/sreerag13/Salesforce-Recipes/pull/2)  | Agentforce Agents |
+| **4 : Slack** | Connect Salesforce with Slack and bring agents directly into your team's workflow. Use these integrations to build an agent for an automotive business. |  | Slack |
+| **5 : Agentforce Builder, Agentforce Voice** | Design agent scripts and implement Agentforce Voice. | [af360league_new_agent_builder](https://github.com/sreerag13/Salesforce-Recipes/pull/3) | Slack SDK, Agentforce Voice |
 
-## Read All About It
+| **6 : Data 360** | Ingest and process structured and unstructured data, and understand how to use the processed data in Apex, Flows, and to build an agent for a manufacturing business. | [af360league-datacloud](https://github.com/sreerag13/Salesforce-Recipes/pull/5) | Data 360,Apex,LWC,Flows |
 
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
+
+
+
+---
+
