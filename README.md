@@ -1,6 +1,20 @@
 ## Reusable LWC Components
 
+| Component | Objective | Links | 
+| :--- | :--- | :--- | 
+| **Collapsible Summary Table** | A LWC component to display tabular data with support for summarization and grouping |[](link)|
+
+
 ## Agentforce Agents
+
+
+| Industry | Objective | Links | 
+| :--- | :--- | :--- | 
+| **Home Furnishing Retailer** | AI-Powered Home Advisor |[](link)|
+| **Global Healthcare Provider** |Agentic Solution for Patient Support and Compliance |  [](link) |
+| **Multi-Brand Consumer Goods Company** | Multi-Modal Brand Assistant |  Agentforce Agents |
+| **Online Hospitality Platform** | Intelligent Diner Support Agent |  [](link) |
+
 
 ## Agentforce 360 League 20/26
 
